@@ -29,7 +29,17 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/TtuGTHV.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+•	Configure Roles
+a.	Admin Panel -> Agents -> Roles
+b.	Supreme Admin
+•	Configure Departments
+a.	Admin Panel -> Agents -> Departments
+b.	System Administrators
+•	Configure Teams
+a.	Admin Panel -> Agents -> Teams
+i.	Level I Support
+ii.	Level II Support
+
 </p>
 <br />
 
@@ -37,7 +47,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/LV4Bklg.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+•	Allow anyone to create tickets
+a.	Admin Panel -> Settings -> User Settings
+b.	Registration Required: Require registration and login to create tickets 
+•	Configure Agents (workers)
+a.	Admin Panel -> Agents -> Add New
+i.	Jane
+ii.	John
+•	Configure Users (customers)
+a.	Agent Panel -> Users -> Add New
+i.	Karen
+ii.	Ken
+
 </p>
 <br />
 
@@ -46,6 +67,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/31C2r6G.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+•	Configure SLA
+a.	Admin Panel -> Manage -> SLA
+i.	Sev-A (1 hour, 24/7)
+ii.	Sev-B (4 hours, 24/7)
+iii.	Sev-C (8 hours, business hours)
+•	Configure Help Topics
+a.	Admin Panel -> Manage -> Help Topics
+i.	Business Critical Outage
+ii.	Personal Computer Issues
+iii.	Equipment Request
+iv.	Password Reset
+
 </p>
 <br />
